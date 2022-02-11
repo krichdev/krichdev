@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔄  I am a career changer.
+- 🔄  I am a career changer Family Business ➡️ Developer.
 - 🌱  I’m currently learning `react` | `TypeScript` | `graphql`
 - 💻  I co-founded a [start up](https://www.botany.io)
 - 👨‍👩‍👦‍👦  Husband and Dad
@@ -8,3 +8,4 @@
 - :necktie: [Resume](https://www.helloimkyle.com/resume)
 - :office: [LinkedIn](https://www.linkedin.com/in/kyle-richardson)
 - 🚀 [What If Crypto?](https://whatifcrypto.fyi) 
+- 🔤 [Wordle Helps](https://wordlehelps.com)
