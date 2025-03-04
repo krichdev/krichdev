@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔄  I am a career changer: Family Business ➡️ Developer.
+- 🔄  I am a career changer: Family Business ➡️ Software.
 - 🌱  Daily coding with `React` | `TypeScript`
 - 💻  I co-founded a [start up](https://www.botany.io)
 - 👨‍👩‍👦‍👦  Husband and Dad
